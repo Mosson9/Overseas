@@ -48,6 +48,24 @@
 - 视觉:顶部筛选 + KPI 卡(花费/新增/CPI/Blended ROAS)、渠道 ROAS 表(Meta/Google/TikTok/ASA)、ROAS 趋势折线 + 渠道花费柱状、素材表现卡(creative SA_H1_v3)、红色反作弊告警 3.2%。
 - 其他候选:[候选2](https://www.canva.com/d/Z6IZTdtrKKSYoNM) · [候选3](https://www.canva.com/d/KdVL45PWcpTo8Ow) · [候选4](https://www.canva.com/d/A81qC_qPRvLIrPS)
 
+## 8. 公会后台（对应《11 主播公会中台》6.1，桌面端）
+- 🎨 查看:https://www.canva.com/d/0tMJXSlVcFfRYt9
+- ✏️ 编辑:https://www.canva.com/d/39i2B5lBKtcpmnw
+- 视觉:左侧导航(公会/主播/结算/召回/审计)、公会表(等级/主播数/月流水/保证金/状态,含"克扣申诉"告警)、分成配置面板(平台/公会/主播% + **主播下限保护开关**)、顶部 GMV 统计。
+- 其他候选:[候选2](https://www.canva.com/d/V21PiDItRg1PDpQ) · [候选3](https://www.canva.com/d/4d_qv5LGpOW-wvl) · [候选4](https://www.canva.com/d/mfF29fM-7ubxgg9)
+
+## 9. 召回 CRM（对应《11 主播公会中台》6.3，桌面端）
+- 🎨 查看:https://www.canva.com/d/8HkWA7BWfn6p_sg
+- ✏️ 编辑:https://www.canva.com/d/X6Ps_FncMo3mBCJ
+- 视觉:生命周期筛选(流失7天+)、召回列表(主播/等级/WhatsApp/沉默天数/生命周期/状态/一键召回)、分阶段召回策略面板、回流漏斗、WhatsApp/Push 触达。
+- 其他候选:[候选2](https://www.canva.com/d/yEyPyXp69A9pGkU) · [候选3](https://www.canva.com/d/hlEfztu3duj0H6J) · [候选4](https://www.canva.com/d/LF5ngNeAJ1u-Xu_)
+
+## 10-12. 待补（本轮触发 Canva 配额上限，暂未生成）
+> 以下 3 张本轮因 Canva 账户**配额上限**未能生成,配额恢复后可续出。当前可先看对应 PRD 的 ASCII 线框:
+- **支付/对账后台** → 见《[03 支付中台](../03-支付中台-PRD.md)》6.2(订单表/对账/拒付率看板)
+- **内容安全策略后台** → 见《[06 内容安全审核中台](../06-内容安全审核中台-PRD.md)》6.2(策略库/海湾最严尺度/举报管理)
+- **钱包页(移动端)** → 见《[08 钱包计费中台](../08-钱包计费中台-PRD.md)》6.1(金币/钻石/豆子/提现/流水)
+
 ---
 
 ## 说明
