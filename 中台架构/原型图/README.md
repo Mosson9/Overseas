@@ -30,6 +30,24 @@
 - 视觉:左侧导航 + 工单卡(P1/音频波形/风险分 0.78/阿语转写+译文)+ 处置按钮(通过/警告/封禁/升级P0)+ 右侧质检 KPI + 顶部待处理统计。
 - 其他候选:[候选2](https://www.canva.com/d/NEz_wnNq2_DVIZ0) · [候选3](https://www.canva.com/d/avjMFJGoGngyz3c) · [候选4](https://www.canva.com/d/nUlP6wWBN2D50f3)
 
+## 5. 主播中台 / 创作者中心（对应《11 主播公会中台》6.2，移动端）
+- 🎨 查看:https://www.canva.com/d/RcAJD11U3aCGiDT
+- ✏️ 编辑:https://www.canva.com/d/yyCXDgBYOaAg589
+- 视觉:收益卡(豆子 52,000≈$248)、**分成比例 55% 受下限保护✓**、预计到手、收益明细(礼物/PK/时长)、提现按钮、**透明结算+申诉**入口(防克扣)、任务进度(开播 48/60h、PK)。
+- 其他候选:[候选2](https://www.canva.com/d/1ffIctoLhPi5lfb) · [候选3](https://www.canva.com/d/yQwCpwQcQJJas--) · [候选4](https://www.canva.com/d/wKXoVhqsOG5EgPG)
+
+## 6. 运营后台（对应《05 运营活动中台》6，桌面端）
+- 🎨 查看:https://www.canva.com/d/HPOX29Gwj7q28Cy
+- ✏️ 编辑:https://www.canva.com/d/oAU4JU21457e2nO
+- 视觉:左侧导航(活动/资源位/配置/AB/日历)、活动管理表(斋月返利/新人签到/周末PK)、资源位面板、AB 实验卡(首充包 B +18% 96%置信)、远程配置开关。
+- 其他候选:[候选2](https://www.canva.com/d/fqXseoaNLjOZDj8) · [候选3](https://www.canva.com/d/jI_VqpibbeQzdXI) · [候选4](https://www.canva.com/d/1LelfBVVidd6Xu3)
+
+## 7. 归因看板（对应《02 投放归因中台》6.1，桌面端）
+- 🎨 查看:https://www.canva.com/d/fXuAXLOgkhP5XnB
+- ✏️ 编辑:https://www.canva.com/d/dqOsulled9YMsfN
+- 视觉:顶部筛选 + KPI 卡(花费/新增/CPI/Blended ROAS)、渠道 ROAS 表(Meta/Google/TikTok/ASA)、ROAS 趋势折线 + 渠道花费柱状、素材表现卡(creative SA_H1_v3)、红色反作弊告警 3.2%。
+- 其他候选:[候选2](https://www.canva.com/d/Z6IZTdtrKKSYoNM) · [候选3](https://www.canva.com/d/KdVL45PWcpTo8Ow) · [候选4](https://www.canva.com/d/A81qC_qPRvLIrPS)
+
 ---
 
 ## 说明
